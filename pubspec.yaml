@@ -102,3 +102,5 @@ flutter:
 flutter_icons:
   image_path: assets/logo.png
   android: true
+  adaptive_icon_background: '#ffffff'
+  adaptive_icon_foreground: assets/logo.png
